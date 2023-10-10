@@ -1,0 +1,11 @@
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\WebApi.Docker.exe
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\appsettings.Development.json
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\appsettings.json
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\WebApi.Docker.dll
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\WebApi.Docker.deps.json
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\WebApi.Docker.runtimeconfig.json
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\WebApi.Docker.pdb
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\Microsoft.OpenApi.dll
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BootCamp-Devops\WebApi.Docker\WebApi.Docker\out\Swashbuckle.AspNetCore.SwaggerUI.dll
